@@ -8,17 +8,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kah-ve&hide=html&layout=compact&theme=dracula)](https://github.com/kah-ve/github-readme-stats)
 
 
-<a href="https://github.com/kah-ve/cartoonify">
+<a href="https://github.com/kah-ve/MarketGAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=MarketGAN&theme=tokyonight" />
 </a>    
-<a href="https://github.com/kah-ve/character-based-cnn">
+<a href="https://github.com/kah-ve/kah-ve.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=kah-ve.github.io&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/kah-ve/Neural-Network-from-scratch">
+<a href="https://github.com/kah-ve/TrafficSignGAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=TrafficSignGAN&theme=tokyonight" />
 </a>    
 
-<a href="https://github.com/kah-ve/mrnet">
+<a href="https://github.com/kah-ve/flaskapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=flaskapp&theme=tokyonight" />
 </a>
