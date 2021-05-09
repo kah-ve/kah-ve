@@ -19,6 +19,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=TrafficSignGAN&theme=tokyonight" />
 </a>    
 
-<a href="https://github.com/kah-ve/flaskapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=flaskapp&theme=tokyonight" />
+<a href="https://github.com/kah-ve/reactflaskpostgresApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=reactflaskpostgresApp&theme=tokyonight" />
 </a>
