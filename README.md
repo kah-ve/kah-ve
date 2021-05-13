@@ -23,7 +23,7 @@
 </a>    
 
 
-<a href=https://github.com/kah-ve/campsite-notifier">
+<a href="https://github.com/kah-ve/campsite-notifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=campsite-notifier&theme=tokyonight" />
 </a>    
 
