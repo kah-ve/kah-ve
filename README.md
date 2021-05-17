@@ -23,8 +23,8 @@
 </a>    
 
 
-<a href="https://github.com/kah-ve/react-flask-postgresql-in-docker-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=react-flask-postgresql-in-docker-boilerplate&theme=tokyonight" />
+<a href="https://github.com/kah-ve/fullstack-boilerplate-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kah-ve&repo=fullstack-boilerplate-app&theme=tokyonight" />
 </a>    
 
 
